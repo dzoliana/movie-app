@@ -2,6 +2,10 @@
 
 Movie App project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![home](movie-app1.png)
+![discovery](movie-app2.png)
+![more](movie-app3.png)
+
 ## Built with
 
 - React
@@ -36,3 +40,7 @@ Movie App project was bootstrapped with [Create React App](https://github.com/fa
 ### `npm start`
 
 4. Make required changes to suit your needs.
+
+## Dockerized
+
+[docker-hub](https://hub.docker.com/u/dzoliana)
