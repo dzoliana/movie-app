@@ -1,0 +1,30 @@
+.container {
+  width: 100%;
+  margin: 0.5em auto;
+  background-color: rgb(26, 27, 27);
+}
+
+.grid {
+  display: grid;
+  margin-left: 0.1px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 0.2em;
+  justify-content: center;
+}
+
+h1 {
+  color: #ffffff;
+  text-shadow: 2px 2px 5px rgb(149, 149, 149);
+  font-family: "Helvetica", Arial, sans-serif;
+}
+
+h2 {
+  font-family: "Helvetica", Arial, sans-serif;
+  background-color: #ffffff;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}

@@ -1,0 +1,12 @@
+.heart-icon {
+  color: white;
+  cursor: pointer;
+}
+
+.heart-icon:hover {
+  color: rgb(183, 131, 131);
+}
+
+.heart-icon:active {
+  color: rgb(176, 50, 50);
+}

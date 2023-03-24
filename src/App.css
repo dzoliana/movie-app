@@ -1,0 +1,17 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  text-shadow: 2px 2px 5px rgb(149, 149, 149);
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style-type: none;
+  outline: none;
+  background: radial-gradient(circle, #2c2c2c 10%, transparent 11%),
+    radial-gradient(circle at bottom left, #2c2c2c 5%, transparent 6%),
+    radial-gradient(circle at bottom right, #2c2c2c 5%, transparent 6%),
+    radial-gradient(circle at top left, #2c2c2c 5%, transparent 6%),
+    radial-gradient(circle at top right, #2c2c2c 5%, transparent 6%);
+  background-size: 3em 3em;
+
+  opacity: 1;
+}
