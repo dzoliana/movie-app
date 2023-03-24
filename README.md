@@ -2,8 +2,13 @@
 
 Movie App project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Home:
 ![home](movie-app1.png)
+
+Discovery:
 ![discovery](movie-app2.png)
+
+Movie detail:
 ![more](movie-app3.png)
 
 ## Built with
@@ -12,6 +17,8 @@ Movie App project was bootstrapped with [Create React App](https://github.com/fa
 - CSS
 
 ## Using
+
+### Done
 
 - publicly available [TMDB API](https://www.themoviedb.org/documentation/api) to search movies
 - css and react-bootstrap design, components and props
@@ -24,7 +31,12 @@ Movie App project was bootstrapped with [Create React App](https://github.com/fa
 - conditional return statements
 - horizontal scrolling
 - routing with [React-Router](https://reactrouter.com/en/main) `Link` and `useNavigate`
-- `localStorage` with get and set
+- `localStorage` with get and set to favorite movies
+
+### To do
+
+- unfavorite movies
+- state showing favorited movies (from Discovery page and MovieDetails page)
 
 ## Getting started
 
@@ -44,3 +56,7 @@ Movie App project was bootstrapped with [Create React App](https://github.com/fa
 ## Dockerized
 
 [docker-hub](https://hub.docker.com/u/dzoliana)
+
+## Footnote
+
+The API keys from the config.js file are hidden in gitignore.
